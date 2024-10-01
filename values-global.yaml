@@ -25,8 +25,8 @@ global:
 
   s3:
     bucket:
-      name: BUCKETNAME
-      region: AWSREGION
+      name: acm-demo
+      region: us-east-1
       message:
         aggregation:
           count: 50
